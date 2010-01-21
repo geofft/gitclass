@@ -1,3 +1,8 @@
+---------------------------
+|  THE TYGER              |
+| a poem by William Blake |
+---------------------------
+
 Tyger! Tyger! burning bright
 In the forests of the night,
 What immortal hand or eye
@@ -27,3 +32,5 @@ Tyger! Tyger! burning bright
 In the forests of the night,
 What immortal hand or eye
 Dare frame thy fearful symmetry?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
